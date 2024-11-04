@@ -1,0 +1,45 @@
+stages:
+  - build
+  - test
+
+variables:
+  DOCKER_TLS_CERTDIR: ""  # Disable TLS for Docker-in-Docker
+
+build:
+  image: docker:20.10.24  # Use a stable Docker version
+  stage: build
+  services:
+    - docker:20.10.24-dind
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_DRIVER: overlay2
+  before_script:
+    - docker system prune -af  # Clean up before starting the job
+    - docker info
+  script:
+    - docker-compose build
+  only:
+    - main
+  privileged: true  # Enable privileged mode for this job
+
+test:
+  image: docker:20.10.24
+  stage: test
+  services:
+    - docker:20.10.24-dind
+  variables:
+    DOCKER_HOST: tcp://docker:2375
+    DOCKER_DRIVER: overlay2
+    APP_MODE: "production"
+  before_script:
+    - docker system prune -af
+    - docker info
+  script:
+    - docker-compose up -d
+    - docker ps  # List running containers
+  after_script:
+    - docker-compose down -v
+    - docker system prune -af  # Clean up after the job is done
+  only:
+    - main
+  privileged: true

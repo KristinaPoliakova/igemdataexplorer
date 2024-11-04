@@ -1,0 +1,27 @@
+# Ignore the .env file containing sensitive environment variables
+.env
+
+# Ignore Python bytecode and virtual environments
+__pycache__/
+main/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.eggs/
+.DS_Store
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore Docker-specific README file but not the regular README
+README.Docker.md

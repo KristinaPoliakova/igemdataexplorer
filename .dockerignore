@@ -1,0 +1,29 @@
+# Version control systems
+.git/
+.svn/
+
+# Development specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Project specific patterns
+tmp/
+logs/
+*.log
+
+# Local development configuration files
+.env
+.dockerenv
+
+# Ignore README.md
+README.md

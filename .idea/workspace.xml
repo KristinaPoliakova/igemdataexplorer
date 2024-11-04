@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30e1d518-e8c9-45a0-adda-65121a30ce02" name="Changes" comment="adjust streamlit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mkGXSG8K0BJDAZNV23Y9gZe2Cn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kristina/Desktop/iGEM/munich",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30e1d518-e8c9-45a0-adda-65121a30ce02" name="Changes" comment="" />
+      <created>1727613200185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727613200185</updated>
+      <workItem from="1727613201495" duration="6738000" />
+      <workItem from="1727708649252" duration="351000" />
+      <workItem from="1727809018835" duration="71000" />
+      <workItem from="1730761121807" duration="624000" />
+    </task>
+    <task id="LOCAL-00001" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727613615374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727613615374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727613661238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727613661238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727613736036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727613736036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727615483072</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727615483072</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727616071512</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727616071513</updated>
+    </task>
+    <task id="LOCAL-00006" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727616494156</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727616494156</updated>
+    </task>
+    <task id="LOCAL-00007" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727616919117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727616919117</updated>
+    </task>
+    <task id="LOCAL-00008" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727618824226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727618824226</updated>
+    </task>
+    <task id="LOCAL-00009" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727619029263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727619029263</updated>
+    </task>
+    <task id="LOCAL-00010" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727619124329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727619124329</updated>
+    </task>
+    <task id="LOCAL-00011" summary="wip: .gitlab-ci.yml">
+      <option name="closed" value="true" />
+      <created>1727630412356</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727630412356</updated>
+    </task>
+    <task id="LOCAL-00012" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727630423776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727630423776</updated>
+    </task>
+    <task id="LOCAL-00013" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727630482555</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727630482555</updated>
+    </task>
+    <task id="LOCAL-00014" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727630742211</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727630742211</updated>
+    </task>
+    <task id="LOCAL-00015" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727631109851</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727631109851</updated>
+    </task>
+    <task id="LOCAL-00016" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727631163801</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727631163801</updated>
+    </task>
+    <task id="LOCAL-00017" summary="wip: readme">
+      <option name="closed" value="true" />
+      <created>1727631235917</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727631235917</updated>
+    </task>
+    <task id="LOCAL-00018" summary="change  how many results (hits) to consider from a Qdrant search">
+      <option name="closed" value="true" />
+      <created>1727708933792</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727708933793</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add user guide on main page">
+      <option name="closed" value="true" />
+      <created>1727708986235</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727708986235</updated>
+    </task>
+    <task id="LOCAL-00020" summary="adjust streamlit">
+      <option name="closed" value="true" />
+      <created>1727809074246</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727809074246</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add .gitlab-ci.yml" />
+    <MESSAGE value="wip: .gitlab-ci.yml" />
+    <MESSAGE value="wip: readme" />
+    <MESSAGE value="change  how many results (hits) to consider from a Qdrant search" />
+    <MESSAGE value="add user guide on main page" />
+    <MESSAGE value="adjust streamlit" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjust streamlit" />
+  </component>
+</project>
